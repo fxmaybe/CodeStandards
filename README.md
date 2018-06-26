@@ -1,4 +1,4 @@
-# CodeGuide
+# Code Standards
 YY inc. Platform department web code guide.
 
 > 本规范版权属于 YY inc. 平台部web组 @DeerTeam，转载和修改都请署上来源，谢谢大家的尊重。
