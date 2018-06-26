@@ -1,7 +1,7 @@
 # Code Standards
 YY inc. Platform department web code guide.
 
-> 本规范版权属于 YY inc. 平台部web组 @DeerTeam，转载和修改都请署上来源，谢谢大家的尊重。
+> 本规范版权属于 YY inc. @Fx.maybe，转载和修改都请署上来源，谢谢大家的尊重。
 >
 > 规范永远没有最正确，永远只有最合适，
 >
